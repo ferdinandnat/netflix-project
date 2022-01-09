@@ -1,0 +1,11 @@
+
+
+.image-container img{
+    overflow: hidden;
+    height: 195px;
+    width: 195px;
+}
+
+.image-container :hover{
+    border: 5px solid white;
+}
